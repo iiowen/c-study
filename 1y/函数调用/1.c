@@ -3,6 +3,6 @@
 #include"3.h"
 
 int main(){
-    myprint('hello');
+    myprint(123);
     return 0;
 }
